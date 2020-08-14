@@ -1,0 +1,12 @@
+
+.container {
+    margin: 30px auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: auto;
+}
+
+img {
+    min-height: 150px;
+}
